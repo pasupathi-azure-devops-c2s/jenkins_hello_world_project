@@ -1,1 +1,3 @@
-# jenkins_hello_world_project
+# maven-project
+
+Simple Maven Project
